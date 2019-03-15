@@ -17,7 +17,7 @@ git merge (分支名)
 git add -A
 git commit -m "(给本次提交起个名)"
 
-git remote add origin https://github.com/nuaamsc/ProjectYugong.git
+#git remote add origin https://github.com/nuaamsc/ProjectYugong.git
 git push -u origin master
 
 
